@@ -12,7 +12,7 @@ sudo npm install -g npm
 
 - node.js 최신버전
 
-window \\
+window \
 
 [nodejs 공식홈페이지](nodejs.org) 에서 LST 인스톨러 설치
 
@@ -61,3 +61,15 @@ npm start
 ```
 
 ## 사용기술 및 이유
+
+- typescript
+
+  - 컴파일 단계 오류 검출을 통한 디버깅 효율성 증가
+
+- react-countup
+
+  - react-animation-number(s) 대비 숫가 증가속도 커스텀 용이
+
+- react-transition-group
+
+  - transition 효과 적용 및 지정 용이 (element별 애니메이션 사이 간격 및 duration 설정 등)
