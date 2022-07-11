@@ -5,7 +5,7 @@ import { CSSTransition } from 'react-transition-group'
 
 const CountResult = () => {
   const easingFn = (t: number, b: number, c: number, d: number) => {
-    return t === d ? b + c : c * (-Math.pow(2.062, (-10 * t) / d) + 1) + b // custom easeOutExpo
+    return t === d ? b + c : c * (-Math.pow(2.1, (-10 * t) / d) + 1) + b // custom easeOutExpo
   }
 
   const [INPROP_CONTENTLOGO] = useState(true)
