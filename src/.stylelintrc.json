@@ -1,0 +1,19 @@
+{
+  "processors": ["stylelint-processor-styled-components"],
+  "extends": ["@titicaca/eslint-config-triple/stylelint"],
+  "syntax": "scss",
+  "rules": {
+    "indentation": 2,
+    "color-hex-case": "lower",
+    "declaration-colon-newline-after": null,
+    "selector-pseudo-element-colon-notation": null,
+    "no-descending-specificity": null,
+    "value-list-comma-newline-after": null,
+    "rule-empty-line-before": [
+      "always",
+      {
+        "ignore": ["first-nested"]
+      }
+    ]
+  }
+}

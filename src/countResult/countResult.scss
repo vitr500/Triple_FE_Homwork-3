@@ -1,0 +1,174 @@
+.countResult {
+  min-width: 1200px;
+  white-space: pre-line;
+  text-align: center;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+
+.contentContainer {
+  margin: 0px auto;
+  position: relative;
+  font: 16px / 16px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  width: 1040px;
+  height: auto;
+} /*#DIV_2*/
+
+.ContentLogo-0 {
+  opacity: 0;
+  position: absolute;
+  top: 200px;
+  width: 400px;
+  height: 338px;
+  background-size: 400px 338px;
+  padding-top: 280px;
+  right: 640px;
+  transform-origin: 200px 169px;
+}
+
+.ContentLogo-cont {
+  text-align: center;
+  font: 15px sans-serif;
+  color: rgba(58, 58, 58, 0.8);
+  text-decoration: none solid rgba(58, 58, 58, 0.7);
+  text-emphasis-color: rgba(58, 58, 58, 0.7);
+  border: 0px none rgba(58, 58, 58, 0.7);
+  outline: rgba(58, 58, 58, 0.7) none 0px;
+  background: rgba(0, 0, 0, 0) url('../resource/img-02-triple@3x.png') no-repeat
+    scroll 50% 0% / 400px 338px padding-box border-box;
+}
+
+.MetricsContainer-0 {
+  position: relative;
+  opacity: 0;
+  top: 50px;
+  width: 50vmin;
+  margin-left: 623px;
+  padding-top: 150px;
+}
+
+.MetricsContainer-cont {
+  font: 16px / 16px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  text-align: left;
+  align-items: left;
+  justify-content: left;
+}
+
+.MetricItem-0 {
+  block-size: 36px;
+  height: 36px;
+  inline-size: 417px;
+  margin-block-end: 20px;
+  perspective-origin: 208.5px 18px;
+  transform-origin: 208.5px 18px;
+  margin: 0px 0px 20px;
+}
+
+.MetricItem-cont {
+  color: rgb(58, 58, 58);
+  column-rule-color: rgb(58, 58, 58);
+  letter-spacing: -1px;
+  text-decoration: none solid rgb(58, 58, 58);
+  text-emphasis-color: rgb(58, 58, 58);
+  text-size-adjust: 100%;
+  border: 0px none rgb(58, 58, 58);
+  font: 36px / 36px sans-serif;
+  outline: rgb(58, 58, 58) none 0px;
+}
+
+.AwardsContainer-0 {
+  position: relative;
+  top: 50px;
+  opacity: 0;
+  block-size: 64px;
+  height: 64px;
+  inline-size: 417px;
+  margin-block-end: 140px;
+  margin-block-start: 50px;
+  margin-inline-start: 623px;
+  perspective-origin: 208.5px 32px;
+  text-size-adjust: 100%;
+  transform-origin: 208.5px 32px;
+  white-space: nowrap;
+  // width: 417px;
+  font: 16px / 16px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  margin: 50px 0px 140px 623px;
+}
+
+.AwardItem-0 {
+  display: inline-block;
+  block-size: 54px;
+  color: rgba(58, 58, 58, 0.8);
+  text-decoration: none solid rgba(58, 58, 58, 0.8);
+  text-emphasis-color: rgba(58, 58, 58, 0.8);
+  text-size-adjust: 100%;
+  transform-origin: 108.383px 32px;
+  white-space: nowrap;
+  width: 154.766px;
+  background: rgba(0, 0, 0, 0) url('../resource/img-02-badge-google@3x.png')
+    no-repeat scroll 0% 0% / 54px 54px padding-box border-box;
+  border: 0px none rgba(58, 58, 58, 0.8);
+  font: 700 14px / 22px sans-serif;
+  margin: 0px 39px 0px 0px;
+  outline: rgba(58, 58, 58, 0.8) none 0px;
+  padding: 5px 0px 5px 62px;
+}
+
+.AwardItem-1 {
+  display: inline-block;
+  block-size: 54px;
+  color: rgba(58, 58, 58, 0.8);
+  column-rule-color: rgba(58, 58, 58, 0.8);
+  text-decoration: none solid rgba(58, 58, 58, 0.8);
+  text-emphasis-color: rgba(58, 58, 58, 0.8);
+  text-size-adjust: 100%;
+  transform-origin: 94.1562px 32px;
+  white-space: nowrap;
+  width: 126.312px;
+  background: rgba(0, 0, 0, 0) url('../resource/img-02-badge-apple@4x.png')
+    no-repeat scroll 0% 0% / 54px 54px padding-box border-box;
+  border: 0px none rgba(58, 58, 58, 0.8);
+  font: 700 14px / 22px sans-serif;
+  margin: 0px 39px 0px 0px;
+  outline: rgba(58, 58, 58, 0.8) none 0px;
+  padding: 5px 0px 5px 62px;
+}
+
+.BR_0,
+.BR_1 {
+  color: rgba(58, 58, 58, 0.8);
+  column-rule-color: rgba(58, 58, 58, 0.8);
+  perspective-origin: 0px 0px;
+  text-decoration: none solid rgba(58, 58, 58, 0.8);
+  text-emphasis-color: rgba(58, 58, 58, 0.8);
+  text-size-adjust: 100%;
+  transform-origin: 0px 0px;
+  white-space: nowrap;
+  border: 0px none rgba(58, 58, 58, 0.8);
+  font: 700 14px / 22px sans-serif;
+  outline: rgba(58, 58, 58, 0.8) none 0px;
+}
+
+.AwardsContainer-3 {
+  display: flex;
+}
+
+.fade-enter-done.ContentLogo-0 {
+  top: 150px;
+  opacity: 1;
+  transition: all 700ms;
+}
+
+.fade-enter-done.MetricsContainer-0,
+.fade-enter-done.AwardsContainer-0 {
+  top: 0px;
+  opacity: 1;
+  transition: all 700ms;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+}
